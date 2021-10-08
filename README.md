@@ -1,6 +1,8 @@
 # Analytics-Vidhya-Job-A-Thon-June-2021
 Data Engineering hackathon - Development of input features for a ECom website
 
+Final Rank : 145 of 6467 participants, Accuracy : 88%
+
 Overview of Approach: 
 1. Clean the data for missing UserIDs by merging both given data frames. 
 2. Convert unix timestamps to human-readable data using pd_to.datetime. 
